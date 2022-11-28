@@ -1,0 +1,1 @@
+This is a repository for statistics exercises and lessons at Codeup, San Antonio, TX, starting on 28 November 2022.
